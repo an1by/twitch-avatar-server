@@ -2,7 +2,7 @@
 
 ## Инструкция на русском
 
-Сначала смотрим [Инструкция.jpg](.docs/Инструкция.jpg)
+<img src=".docs/Инструкция.jpg"/>
 
 Если у вас после выполнения инструкции не берутся аватарки:
 1. Открываем https://dev.twitch.tv/console
@@ -24,7 +24,7 @@
 6. Сохранияем и прожимаем start.bat
 
 ## Instruction on English
-First of all you need to see [Instructions.jpg](.docs/Instruction.jpg)
+<img src=".docs/Instruction.jpg"/>
 
 If you do not get avatars after following the instructions:
 1. Open https://dev.twitch.tv/console
