@@ -1,5 +1,7 @@
 # twitch-avatar-server
 
+## [Download / Скачать](https://github.com/an1by/twitch-avatar-server/releases)
+
 ## Инструкция на русском
 
 <img src=".docs/Инструкция.jpg"/>
