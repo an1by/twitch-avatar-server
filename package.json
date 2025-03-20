@@ -1,0 +1,17 @@
+{
+  "name": "twitch-avatar-server",
+  "version": "0.0.1",
+  "author": {
+    "name": "An1by",
+    "url": "https://aniby.net"
+  },
+  "scripts": {
+    "dev": "node .",
+    "build": "pkg -t node18-win index.js -o ./bin/scripts/twitch-avatar-server.exe"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "opn": "^5.5.0"
+  }
+}
